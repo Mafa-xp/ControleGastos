@@ -1,0 +1,9 @@
+POST https://localhost:7106/api/transacoes
+Content-Type: application/json
+
+{
+  "descricao": "Lanche",
+  "valor": 30,
+  "tipo": "Despesa",
+  "pessoaId": 8
+}

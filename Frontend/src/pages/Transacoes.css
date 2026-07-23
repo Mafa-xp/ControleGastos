@@ -1,0 +1,58 @@
+.container {
+  padding: 30px;
+  text-align: center;
+}
+
+
+.titulo {
+  margin-bottom: 30px;
+}
+
+
+.formulario {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+
+.campo {
+  padding: 12px;
+  width: 200px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+
+.botao {
+  padding: 12px 25px;
+  border-radius: 8px;
+  border: none;
+  background: #1b263e;
+  color: white;
+  cursor: pointer;
+}
+
+
+.botao:hover {
+  opacity: 0.8;
+}
+
+
+.lista {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 15px;
+}
