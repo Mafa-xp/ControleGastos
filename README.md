@@ -111,4 +111,4 @@ npm run dev
 
 - Engenharia de Software
 - GitHub: https://github.com/Mafa-xp
-- LinkedIn: https://www.linkedin.com/in/maria-de-fatima-ferreira/
+- LinkedIn: https://www.linkedin.com/in/maria-de-fatima-ferreira-28b36a356/
